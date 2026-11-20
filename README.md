@@ -1,36 +1,44 @@
 <!--
   SETUP
-  1. Create a PUBLIC repo named exactly like your GitHub username.
+  1. Public repo named exactly like your GitHub username.
   2. Save this file in it as README.md.
-  3. Find & replace YOUR-USERNAME and the placeholder links (your-portfolio.com, etc.).
-  4. Optional snake: add snake.yml as .github/workflows/snake.yml, then run it once from the Actions tab.
+  3. Add header.svg and terminal.svg inside a folder called "assets" in that repo.
+  4. Replace YOUR-USERNAME and the placeholder links (your-portfolio.com, your-handle, you@example.com).
+  5. Optional snake: add snake.yml as .github/workflows/snake.yml and run it once from the Actions tab.
 -->
 
 <div align="center">
 
-<!-- ANIMATED HEADER: fades in. Change the colors in "color=" (stop:hex) -->
-<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0b1020,55:3b2f6b,100:ff9a5a&text=%E4%BD%90%E8%97%A4%20%E5%A4%A7%E5%96%9C&fontSize=56&fontColor=fff3e6&fontAlignY=38&animation=fadeIn&desc=Photographer%20%C2%B7%20Web%20Creator&descSize=20&descAlignY=60&descColor=ffd9b3" />
+<!-- HERO: custom animated SVG (assets/header.svg) -->
+<img src="assets/header.svg" width="100%" alt="佐藤 大喜, web creator" />
 
-<!-- TYPING TEXT: each line after "lines=" is separated by ; and spaces are + -->
+<!-- TYPING TEXT: lines after "lines=" are separated by ; and spaces are + -->
 <a href="https://your-portfolio.com">
-  <img alt="typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=FFB86B&center=true&vCenter=true&repeat=true&width=640&height=60&lines=Hi+there!+I'm+%E4%BD%90%E8%97%A4+%E5%A4%A7%E5%96%9C+%F0%9F%91%8B;Photographer+capturing+stories+in+light+%F0%9F%93%B8;I+build+things+for+the+web+%F0%9F%92%BB;Open+for+commissions+%E2%9C%A8" />
+  <img alt="typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFB86B&center=true&vCenter=true&repeat=true&width=640&height=56&lines=Hi+there!+I'm+%E4%BD%90%E8%97%A4+%E5%A4%A7%E5%96%9C+%F0%9F%91%8B;I+build+things+for+the+web+%F0%9F%92%BB;Clean+code%2C+sharp+design+%E2%9C%A8;Always+learning%2C+always+shipping+%F0%9F%9A%80;Open+for+commissions+%F0%9F%92%8C" />
 </a>
 
 <br/>
 
-<img alt="profile views" src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile+views&color=ff9a5a&style=flat-square" />
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile+views&color=ff9a5a&style=flat-square" />
+<img alt="Followers" src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=flat-square&color=3b2f6b&labelColor=0b1020" />
+<img alt="Commissions open" src="https://img.shields.io/badge/Commissions-open-3fb950?style=flat-square&labelColor=0b1020" />
 
 </div>
 
 <h3 align="center">About</h3>
 
+<!-- ANIMATED TERMINAL: custom SVG (assets/terminal.svg), types out on a loop -->
+<div align="center">
+  <img src="assets/terminal.svg" width="100%" alt="Animated terminal introducing me" />
+</div>
+
 ```js
 const me = {
   name: "佐藤 大喜",
-  roles: ["Photographer", "Web Creator"],
+  role: "Web creator",
   currentlyBuilding: "my portfolio site",
   openFor: ["Commissions", "Collabs", "Coffee chats"],
-  philosophy: "Light, lines & clean code.",
+  motto: "Clean code, sharp design.",
 };
 ```
 
@@ -38,7 +46,12 @@ const me = {
 
 <!-- LANGUAGE & TOOL SYMBOLS: swap the ids after "i=" (full list: https://skillicons.dev) -->
 <div align="center">
-  <img alt="skills" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,git,github,vscode,figma,ps&perline=7&theme=dark" />
+  <sub>Languages</sub><br/>
+  <img alt="Languages" src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark" /><br/><br/>
+  <sub>Frameworks</sub><br/>
+  <img alt="Frameworks" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,vite&theme=dark" /><br/><br/>
+  <sub>Tools</sub><br/>
+  <img alt="Tools" src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps&theme=dark" />
 </div>
 
 <h3 align="center">Stats</h3>
@@ -67,7 +80,6 @@ const me = {
   <a href="https://your-portfolio.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ff9a5a?style=for-the-badge&logo=googlechrome&logoColor=0b1020" /></a>
   <a href="https://instagram.com/your-handle"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-3b2f6b?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:you@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-0b1020?style=for-the-badge&logo=gmail&logoColor=ffb86b" /></a>
-  <img alt="Commissions open" src="https://img.shields.io/badge/Commissions-open-3fb950?style=for-the-badge" />
 </div>
 
 <br/>
