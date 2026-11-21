@@ -38,8 +38,6 @@ HTML · CSS · JavaScript · Markdown · C# · C++
 
 <a id="me"></a>
 
-## 🖤 Me
-
 > ૮꒰ ˶ᵔ ᵕ ᵔ˶ ꒱ა I’m Aruki — a romance-anime-loving creator who codes, edits and shoots photos, and helps keep my friends’ Twitch streams running smoothly behind the scenes. I like making things that are cute, clean and actually work.
 
 - 🏷️ **Known as:** Aru / Aruki ♡
@@ -51,8 +49,6 @@ HTML · CSS · JavaScript · Markdown · C# · C++
 <p align="center"><img src="./assets/divider.gif" width="100%" alt="" /></p>
 
 <a id="hearts"></a>
-
-## 🖤 Heart List
 
 <div align="center">
 <table>
@@ -84,8 +80,6 @@ HTML · CSS · JavaScript · Markdown · C# · C++
 <p align="center"><img src="./assets/divider.gif" width="100%" alt="" /></p>
 
 <a id="what-i-do"></a>
-
-## 🖤 What I Do
 
 <div align="center">
 <table>
@@ -139,8 +133,6 @@ HTML · CSS · JavaScript · Markdown · C# · C++
 
 <a id="project"></a>
 
-## 🩶 Featured Project
-
 <div align="center">
   <a href="https://arumeow.online/">
     <img src="https://img.shields.io/badge/arumeow.online-visit_my_3D_socials_page-000000?style=for-the-badge&labelColor=666666" alt="Visit arumeow.online" />
@@ -164,8 +156,6 @@ HTML · CSS · JavaScript · Markdown · C# · C++
 <p align="center"><img src="./assets/divider.gif" width="100%" alt="" /></p>
 
 <a id="repos"></a>
-
-## 🩶 Repositories
 
 <div align="center">
 <table>
@@ -214,8 +204,6 @@ HTML · CSS · JavaScript · Markdown · C# · C++
 
 <a id="tools"></a>
 
-## 🩶 Languages & Tools
-
 <div align="center">
 
 <sub><b>LANGUAGES · FOUND IN MY REPOS</b></sub>
@@ -262,8 +250,6 @@ HTML · CSS · JavaScript · Markdown · C# · C++
 
 <a id="stats"></a>
 
-## 🤍 Stats
-
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ImArukiya&show_icons=true&hide_border=false&border_color=333333&bg_color=0a0a0a&title_color=ffffff&text_color=bfbfbf&icon_color=999999&ring_color=ffffff&border_radius=14&custom_title=Aru%27s%20GitHub%20Stats" alt="Aru's GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=ImArukiya&background=0A0A0A&border=333333&stroke=333333&ring=FFFFFF&fire=BFBFBF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=BFBFBF&dates=8C8C8C&border_radius=14" alt="Aru's GitHub streak" />
@@ -274,8 +260,6 @@ HTML · CSS · JavaScript · Markdown · C# · C++
 <p align="center"><img src="./assets/divider.gif" width="100%" alt="" /></p>
 
 <a id="contact"></a>
-
-## 🤍 Say Hi
 
 Always happy to chat about code, stream setups, photography — and, obviously, anime.
 
